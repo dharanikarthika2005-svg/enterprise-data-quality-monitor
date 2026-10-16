@@ -1,0 +1,242 @@
+order_id,order_date,product_id,product_name,category,region,quantity,unit_price,customer_id
+ORD-100601,2025-01-09,PRD-101,Wireless Headphones,Electronics,West,3,79.99,CUST-1185
+ORD-100602,2025-01-10,PRD-203,Cutlery Set,Home & Kitchen,East,10,58.75,CUST-1265
+ORD-100603,2025-01-13,PRD-401,Notebook Pack,Office Supplies,West,1,9.50,CUST-1227
+ORD-100604,2025-01-13,PRD-101,Wireless Headphones,Electronics,East,3,79.99,CUST-1180
+ORD-100605,2025-01-20,PRD-401,Notebook Pack,Office Supplies,Central,2,9.50,CUST-1195
+ORD-100606,2025-01-23,PRD-101,Wireless Headphones,Electronics,North,,79.99,CUST-1225
+ORD-100607,2025-01-23,PRD-402,Desk Organiser,Office Supplies,Central,2,27.00,CUST-1251
+ORD-100608,2025-01-27,PRD-103,USB-C Charger,Electronics,West,2,24.50,CUST-1258
+ORD-100609,2025-01-28,PRD-101,Wireless Headphones,Electronics,North,2,79.99,CUST-1143
+ORD-100610,2025-02-01,PRD-103,USB-C Charger,Electronics,South,2,24.50,CUST-1085
+ORD-100611,2025-02-02,PRD-103,USB-C Charger,Electronics,Central,8,24.50,CUST-1029
+ORD-100612,2025-02-03,PRD-103,USB-C Charger,Electronics,Central,6,24.50,CUST-1212
+ORD-100613,,PRD-103,USB-C Charger,Electronics,West,1,24.50,CUST-1107
+ORD-100614,2025-02-06,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,2,34.00,CUST-1195
+ORD-100615,2025-02-09,PRD-302,Cotton T-Shirt,Apparel,East,5,19.99,CUST-1022
+ORD-100616,2025-02-12,PRD-402,Desk Organiser,Office Supplies,East,2,27.00,CUST-1222
+ORD-100617,2025-02-17,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,4,34.00,CUST-1012
+ORD-100618,2025-02-20,PRD-201,Non-stick Frying Pan,Home & Kitchen,East,6,34.00,CUST-1147
+ORD-100619,2025-02-21,PRD-301,Running Jacket,Apparel,East,3,89.00,CUST-1055
+ORD-100620,2025-02-22,PRD-103,USB-C Charger,Electronics,South,4,24.50,CUST-1229
+ORD-100621,2025-02-23,PRD-302,Cotton T-Shirt,Apparel,Central,-3,19.99,CUST-1047
+ORD-100622,2025-03-03,PRD-101,Wireless Headphones,Electronics,South,5,79.99,CUST-1050
+ORD-100623,2025-03-04,PRD-203,Cutlery Set,Home & Kitchen,West,6,58.75,CUST-1189
+ORD-100624,2025-03-04,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,6,34.00,CUST-1001
+ORD-100625,2025-03-05,PRD-202,Espresso Machine,Home & Kitchen,East,1,149.00,CUST-1287
+ORD-100626,2025-03-08,PRD-401,Notebook Pack,Office Supplies,North,3,9.50,CUST-1141
+ORD-100627,2025-03-09,PRD-103,USB-C Charger,Electronics,Central,2,24.50,CUST-1251
+ORD-100628,2025-03-10,PRD-101,Wireless Headphones,Electronics,Central,0,79.99,CUST-1017
+ORD-100629,2025-03-12,PRD-302,Cotton T-Shirt,Apparel,South,1,19.99,CUST-1104
+ORD-100630,2025-03-14,PRD-302,Cotton T-Shirt,Apparel,Central,3,19.99,CUST-1041
+ORD-100631,2025-03-15,PRD-103,USB-C Charger,Electronics,East,3,24.50,CUST-1295
+ORD-100632,2025-03-16,PRD-101,Wireless Headphones,Electronics,West,4,79.99,CUST-1010
+ORD-100633,2025-03-23,PRD-302,Cotton T-Shirt,Apparel,South,1,19.99,CUST-1243
+ORD-100634,31/02/2025,PRD-301,Running Jacket,Apparel,West,1,89.00,CUST-1200
+ORD-100635,2025-03-30,PRD-201,Non-stick Frying Pan,Home & Kitchen,North,3,34.00,CUST-1229
+ORD-100636,2025-04-03,PRD-203,Cutlery Set,Home & Kitchen,West,6,58.75,CUST-1084
+ORD-100637,2025-04-05,PRD-401,Notebook Pack,Office Supplies,North,2,9.50,CUST-1257
+ORD-100638,2025-04-08,PRD-401,Notebook Pack,Office Supplies,South,4,9.50,CUST-1296
+ORD-100639,2025-04-20,PRD-202,Espresso Machine,Home & Kitchen,West,1,149.00,CUST-1275
+ORD-100640,2025-04-20,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,10,34.00,CUST-1178
+ORD-100641,2025-04-20,PRD-101,Wireless Headphones,Electronics,West,4,79.99,CUST-1273
+ORD-100642,2025-13-01,PRD-303,Trail Sneakers,Apparel,East,3,110.00,CUST-1228
+ORD-100643,2025-04-29,PRD-303,Trail Sneakers,Apparel,East,2,110.00,CUST-1244
+ORD-100644,2025-05-01,PRD-302,Cotton T-Shirt,Apparel,South,1,19.99,CUST-1162
+ORD-100645,2025-05-03,PRD-402,Desk Organiser,Office Supplies,East,2,27.00,CUST-1290
+ORD-100646,2025-05-07,PRD-303,Trail Sneakers,Apparel,West,3,110.00,CUST-1044
+ORD-100647,2025-05-09,PRD-102,Smart Watch,Electronics,North,1,199.00,CUST-1250
+ORD-100648,2025-05-15,PRD-103,USB-C Charger,Electronics,North,1,24.50,CUST-1183
+ORD-100649,not a date,PRD-203,Cutlery Set,Home & Kitchen,North,2,58.75,CUST-1104
+ORD-100650,2025-05-16,PRD-102,Smart Watch,Electronics,North,2,199.00,CUST-1268
+ORD-199999,2025-05-01,PRD-101,Wireless Headphones,Electronics,North,1,79.99,CUST-1001,EXTRA,FIELDS
+ORD-100651,2025-05-18,PRD-101,Wireless Headphones,Electronics,West,6,79.99,CUST-1043
+ORD-100652,2025-05-20,PRD-401,Notebook Pack,Office Supplies,East,1,9.50,CUST-1252
+ORD-100653,2025-05-20,PRD-302,Cotton T-Shirt,Apparel,West,2,19.99,CUST-1234
+ORD-100654,2025-06-02,PRD-303,Trail Sneakers,Apparel,South,3,110.00,CUST-1229
+ORD-100655,2025-06-03,PRD-301,Running Jacket,Apparel,North,6,89.00,CUST-1020
+ORD-100656,2025-06-06,PRD-102,Smart Watch,Electronics,West,2,-19.99,CUST-1229
+ORD-100657,2025-06-07,PRD-103,USB-C Charger,Electronics,South,3,24.50,CUST-1057
+ORD-100658,2025-06-08,PRD-401,Notebook Pack,Office Supplies,North,1,9.50,CUST-1047
+ORD-100659,2025-06-09,PRD-203,Cutlery Set,Home & Kitchen,South,3,58.75,CUST-1120
+ORD-100660,2025-06-10,PRD-202,Espresso Machine,Home & Kitchen,West,2,149.00,CUST-1155
+ORD-100661,2025-06-15,PRD-303,Trail Sneakers,Apparel,East,4,0,CUST-1282
+ORD-100662,2025-06-21,PRD-401,Notebook Pack,Office Supplies,West,2,9.50,CUST-1136
+ORD-100663,2025-06-24,PRD-203,Cutlery Set,Home & Kitchen,South,3,58.75,CUST-1261
+ORD-100664,2025-07-04,PRD-103,USB-C Charger,Electronics,East,3,24.50,CUST-1274
+ORD-100665,2025-07-04,PRD-402,Desk Organiser,Office Supplies,East,5,27.00,CUST-1197
+ORD-100666,2025-07-05,PRD-103,USB-C Charger,Electronics,North,1,24.50,CUST-1130
+ORD-100667,2025-07-08,PRD-401,Notebook Pack,Office Supplies,East,8,twenty,CUST-1233
+ORD-100668,2025-07-10,PRD-201,Non-stick Frying Pan,Home & Kitchen,North,2,34.00,CUST-1122
+ORD-100669,2025-07-12,PRD-203,Cutlery Set,Home & Kitchen,Central,2,58.75,CUST-1214
+ORD-100670,2025-07-18,PRD-301,Running Jacket,Apparel,North,3,89.00,CUST-1061
+ORD-100671,2025-07-22,PRD-203,Cutlery Set,Home & Kitchen,West,1,58.75,CUST-1269
+ORD-100672,2025-07-24,PRD-301,Running Jacket,Apparel,South,1,89.00,CUST-1118
+ORD-100673,2025-07-25,PRD-203,Cutlery Set,Home & Kitchen,North,2.5,58.75,CUST-1074
+ORD-100674,2025-08-01,PRD-401,Notebook Pack,Office Supplies,North,3,9.50,CUST-1019
+ORD-100675,2025-08-10,PRD-402,Desk Organiser,Office Supplies,Central,5,27.00,CUST-1088
+ORD-100676,2025-08-14,PRD-103,USB-C Charger,Electronics,East,1,24.50,CUST-1140
+ORD-100677,2025-08-16,PRD-101,Wireless Headphones,Electronics,South,4,79.99,CUST-1142
+ORD-100678,2025-08-27,PRD-303,Trail Sneakers,Apparel,North,1,110.00,CUST-1216
+ORD-100679,2025-08-30,PRD-302,Cotton T-Shirt,Apparel,Central,1,19.99,CUST-1077
+ORD-100680,2025-09-01,PRD-101,Wireless Headphones,Electronics,West,2,79.99,CUST-1227
+X-99,2025-09-02,PRD-401,Notebook Pack,Office Supplies,North,8,9.50,CUST-1199
+ORD-100682,2025-09-09,PRD-401,Notebook Pack,Office Supplies,South,4,9.50,CUST-1286
+ORD-100683,2025-09-12,PRD-103,USB-C Charger,Electronics,Central,3,24.50,CUST-1286
+ORD-100684,2025-09-17,PRD-301,Running Jacket,Apparel,South,2,89.00,CUST-1027
+ORD-100685,2025-09-18,PRD-402,Desk Organiser,Office Supplies,East,8,27.00,CUST-1001
+ORD-100686,2025-09-22,PRD-301,Running Jacket,Apparel,West,10,89.00,CUST-1118
+ORD-100687,2025-09-25,PRD-302,Cotton T-Shirt,Apparel,East,3,19.99,CUST-1258
+ORD-100688,2025-09-30,PRD-401,Notebook Pack,Office Supplies,West,5,9.50,CUST-1040
+,2025-10-03,PRD-303,Trail Sneakers,Apparel,East,2,110.00,CUST-1020
+ORD-100690,2025-10-07,PRD-302,Cotton T-Shirt,Apparel,South,1,19.99,CUST-1300
+ORD-100691,2025-10-08,PRD-303,Trail Sneakers,Apparel,North,1,110.00,CUST-1014
+ORD-100692,2025-10-11,PRD-201,Non-stick Frying Pan,Home & Kitchen,Central,2,34.00,CUST-1207
+ORD-100693,2025-10-14,PRD-402,Desk Organiser,Office Supplies,South,2,27.00,CUST-1071
+ORD-100694,2025-10-14,PRD-303,Trail Sneakers,Apparel,North,6,110.00,CUST-1046
+ORD-100695,2025-10-18,PRD-103,USB-C Charger,Electronics,North,2,24.50,CUST-1174
+ORD-100695,2025-10-18,PRD-103,USB-C Charger,Electronics,North,3,24.50,CUST-1030
+ORD-100697,2025-10-19,PRD-303,Trail Sneakers,Apparel,East,10,110.00,CUST-1155
+ORD-100698,2025-10-22,PRD-103,USB-C Charger,Electronics,West,1,24.50,CUST-1231
+ORD-100699,2025-10-22,PRD-302,Cotton T-Shirt,Apparel,Central,1,19.99,CUST-1295
+ORD-100700,2025-11-03,PRD-203,Cutlery Set,Home & Kitchen,West,3,58.75,CUST-1010
+ORD-100701,2025-11-04,PRD-103,USB-C Charger,Electronics,South,6,24.50,CUST-1040
+ORD-100701,2025-11-06,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,1,34.00,CUST-1020
+ORD-100703,2025-11-12,PRD-101,Wireless Headphones,Electronics,East,4,79.99,CUST-1059
+ORD-100704,2025-11-13,PRD-401,Notebook Pack,Office Supplies,Central,6,9.50,CUST-1221
+ORD-100705,2025-11-14,PRD-101,Wireless Headphones,Electronics,West,2,79.99,CUST-1119
+ORD-100706,2025-11-15,PRD-102,Smart Watch,Electronics,West,3,199.00,CUST-1045
+ORD-100707,2025-11-16,PRD-203,Cutlery Set,Home & Kitchen,North,4,58.75,CUST-1282
+ORD-100708,2025-11-16,PRD-302,Cotton T-Shirt,Apparel,North,1,19.99,CUST-1147
+ORD-100709,2025-11-16,PRD-302,Cotton T-Shirt,Apparel,North,4,19.99,CUST-1274
+ORD-100710,2025-11-16,PRD-103,USB-C Charger,Electronics,Central,2,24.50,CUST-1006
+ORD-100711,2025-11-19,PRD-501,Data Science Handbook,Gadgets,Central,5,45.00,CUST-1212
+ORD-100712,2025-11-19,PRD-302,Cotton T-Shirt,Apparel,South,1,19.99,CUST-1122
+ORD-100713,2025-11-20,PRD-301,Running Jacket,Apparel,South,3,89.00,CUST-1291
+ORD-100714,2025-11-21,PRD-103,USB-C Charger,Electronics,West,3,24.50,CUST-1223
+ORD-100715,2025-11-22,PRD-501,Data Science Handbook,Books,East,4,45.00,CUST-1095
+ORD-100716,2025-11-23,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,2,34.00,CUST-1227
+ORD-100717,2025-11-23,PRD-103,USB-C Charger,Electronics,West,1,24.50,CUST-1081
+ORD-100718,2025-11-28,PRD-301,Running Jacket,Apparel,South,5,89.00,CUST-1284
+ORD-100719,2025-11-28,PRD-401,Notebook Pack,Office Supplies,Antarctica,1,9.50,CUST-1282
+ORD-100720,2025-11-28,PRD-402,Desk Organiser,Office Supplies,West,1,27.00,CUST-1032
+ORD-100721,2025-11-29,PRD-401,Notebook Pack,Office Supplies,West,3,9.50,CUST-1203
+ORD-100722,2025-11-29,PRD-401,Notebook Pack,Office Supplies,North,2,9.50,CUST-1180
+ORD-100723,2025-11-30,PRD-302,Cotton T-Shirt,Apparel,Central,1,19.99,CUST-1135
+ORD-100724,2025-11-30,PRD-401,Notebook Pack,Office Supplies,East,5,9.50,CUST-1140
+ORD-100725,2025-12-05,PRD-202,Espresso Machine,Home & Kitchen,East,2,149.00,CUST-1108
+ORD-100726,2025-12-06,PRD-203,Cutlery Set,Home & Kitchen,East,1,58.75,
+ORD-100727,2025-12-06,PRD-103,USB-C Charger,Electronics,Central,2,24.50,CUST-1077
+ORD-100728,2025-12-07,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,5,34.00,CUST-1092
+ORD-100729,2025-12-09,PRD-203,Cutlery Set,Home & Kitchen,South,3,58.75,CUST-1132
+ORD-100730,2025-12-09,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,2,34.00,CUST-1062
+ORD-100731,2025-12-10,PRD-401,Notebook Pack,Office Supplies,West,1,9.50,CUST-1075
+ORD-100732,2025-12-11,PRD-102,Smart Watch,Electronics,East,1,199.00,C-22
+ORD-100733,2025-12-12,PRD-302,Cotton T-Shirt,Apparel,West,2,19.99,CUST-1037
+ORD-100734,2025-12-13,PRD-302,Cotton T-Shirt,Apparel,Central,3,19.99,CUST-1031
+ORD-100735,2025-12-13,PRD-103,USB-C Charger,Electronics,East,2,24.50,CUST-1019
+ORD-100736,2025-12-14,PRD-401,Notebook Pack,Office Supplies,East,2,9.50,CUST-1015
+ORD-100737,2025-12-15,PRD-102,Smart Watch,Electronics,West,2,199.00,CUST-1168
+ORD-100738,2025-12-15,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,2,34.00,CUST-1223
+ORD-100739,2025-12-16,PRD-302,Cotton T-Shirt,Apparel,East,8,19.99,CUST-1090
+ORD-100740,2025-12-17,PRD-101,Wireless Headphones,Electronics,Central,2,79.99,CUST-1182
+ORD-100741,2025-12-17,PRD-301,,Apparel,South,3,89.00,CUST-1040
+ORD-100742,2025-12-18,PRD-103,USB-C Charger,Electronics,East,1,24.50,CUST-1191
+ORD-100743,2025-12-18,PRD-101,Wireless Headphones,Electronics,South,1,79.99,CUST-1137
+ORD-100744,2025-12-18,PRD-301,Running Jacket,Apparel,Central,3,89.00,CUST-1079
+ORD-100745,2025-12-19,PRD-303,Trail Sneakers,Apparel,East,3,110.00,CUST-1262
+ORD-100746,2025-12-22,PRD-101,Wireless Headphones,Electronics,West,1,79.99,CUST-1062
+ORD-100747,2025-12-29,PRD-501,Data Science Handbook,Books,West,2,45.00,CUST-1255
+ORD-100748,2025-12-31,PRD-103,USB-C Charger,Electronics,North,6,24.50,CUST-1253
+ORD-100749,2026-01-03,PRD-401,Notebook Pack,Office Supplies,South,1,9.50,CUST-1222
+ORD-100750,2026-01-10,PRD-203,Cutlery Set,Home & Kitchen,Central,2,58.75,CUST-1105
+ORD-100751,2026-01-10,P1,Cutlery Set,Home & Kitchen,North,1,58.75,CUST-1268
+ORD-100752,2026-01-13,PRD-301,Running Jacket,Apparel,East,3,89.00,CUST-1073
+ORD-100753,2026-01-18,PRD-103,USB-C Charger,Electronics,West,1,24.50,CUST-1028
+ORD-100754,2026-01-18,PRD-401,Notebook Pack,Office Supplies,South,2,9.50,CUST-1084
+ORD-100755,2026-01-26,PRD-203,Cutlery Set,Home & Kitchen,West,6,58.75,CUST-1295
+ORD-100756,2026-01-26,PRD-301,Running Jacket,Apparel,East,8,89.00,CUST-1086
+ORD-100757,2026-01-27,PRD-401,Notebook Pack,Office Supplies,East,2,9.50,CUST-1290
+ORD-100758,2026-01-27,PRD-101,Wireless Headphones,Electronics,West,5,79.99,CUST-1117
+ORD-100759,2026-01-27,PRD-302,Cotton T-Shirt,Apparel,East,1,19.99,CUST-1089
+ORD-100760,2026-02-03,PRD-302,Cotton T-Shirt,Apparel,North,4,19.99,CUST-1158
+ORD-100761,2026-02-04,PRD-402,Desk Organiser,Office Supplies,West,750,27.00,CUST-1295
+ORD-100762,2026-02-06,PRD-103,USB-C Charger,Electronics,East,1,24.50,CUST-1129
+ORD-100763,2026-02-08,PRD-303,Trail Sneakers,Apparel,West,3,110.00,CUST-1269
+ORD-100764,2026-02-09,PRD-302,Cotton T-Shirt,Apparel,East,5,19.99,CUST-1186
+ORD-100765,2026-02-13,PRD-103,USB-C Charger,Electronics,West,1,24.50,CUST-1070
+ORD-100766,2026-02-14,PRD-201,Non-stick Frying Pan,Home & Kitchen,South,3,34.00,CUST-1266
+ORD-100767,2026-02-15,PRD-303,Trail Sneakers,Apparel,East,4,110.00,CUST-1030
+ORD-100768,2026-02-15,PRD-201,Non-stick Frying Pan,Home & Kitchen,North,1,34.00,CUST-1295
+ORD-100769,2026-02-20,PRD-103,USB-C Charger,Electronics,North,5,24.50,CUST-1195
+ORD-100770,2026-02-25,PRD-302,Cotton T-Shirt,Apparel,North,3,19.99,CUST-1083
+ORD-100771,2026-02-25,,USB-C Charger,Electronics,West,5,24.50,CUST-1094
+ORD-100772,2026-02-26,PRD-201,Non-stick Frying Pan,Home & Kitchen,Central,8,34.00,CUST-1102
+ORD-100773,2026-02-27,PRD-103,USB-C Charger,Electronics,North,1,24.50,CUST-1057
+ORD-100774,2026-02-28,PRD-303,Trail Sneakers,Apparel,Central,1,110.00,CUST-1121
+ORD-100775,2026-02-28,PRD-101,Wireless Headphones,Electronics,South,2,79.99,CUST-1013
+ORD-100776,2026-02-28,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,3,34.00,CUST-1056
+ORD-100777,2026-03-01,PRD-303,Trail Sneakers,Apparel,South,3,110.00,CUST-1109
+ORD-100778,2026-03-08,PRD-203,Cutlery Set,Home & Kitchen,Central,1,58.75,CUST-1086
+ORD-100779,2026-03-09,PRD-203,Cutlery Set,Home & Kitchen,Central,3,58.75,CUST-1073
+ORD-100780,2026-03-14,PRD-302,Cotton T-Shirt,Apparel,North,4,19.99,CUST-1195
+ORD-100011,2026-03-18,PRD-402,Desk Organiser,Office Supplies,South,1,27.00,CUST-1272
+ORD-100782,2026-03-18,PRD-301,Running Jacket,Apparel,West,6,89.00,CUST-1133
+ORD-100783,2026-03-22,PRD-401,Notebook Pack,Office Supplies,South,2,9.50,CUST-1020
+ORD-100784,2026-03-22,PRD-102,Smart Watch,Electronics,Central,2,199.00,CUST-1162
+ORD-100785,2026-03-26,PRD-402,Desk Organiser,Office Supplies,Central,8,27.00,CUST-1266
+ORD-100786,2026-03-29,PRD-401,Notebook Pack,Office Supplies,East,6,9.50,CUST-1120
+ORD-100787,2026-04-03,PRD-302,Cotton T-Shirt,Apparel,North,4,19.99,CUST-1121
+ORD-100788,2026-04-08,PRD-203,Cutlery Set,Home & Kitchen,East,1,58.75,CUST-1300
+ORD-100789,2026-04-17,PRD-302,Cotton T-Shirt,Apparel,North,3,19.99,CUST-1195
+ORD-100790,2026-04-22,PRD-101,Wireless Headphones,Electronics,North,5,79.99,CUST-1240
+ORD-100791,2026-05-04,PRD-402,Desk Organiser,Office Supplies,West,4,27.00,CUST-1119
+ORD-100792,2026-05-09,PRD-302,Cotton T-Shirt,Apparel,South,6,19.99,CUST-1295
+ORD-100793,2026-05-09,PRD-302,Cotton T-Shirt,Apparel,East,5,19.99,CUST-1172
+ORD-100794,2026-05-10,PRD-303,Trail Sneakers,Apparel,West,3,110.00,CUST-1296
+ORD-100795,2026-05-13,PRD-103,USB-C Charger,Electronics,North,3,24.50,CUST-1199
+ORD-100796,2026-05-18,PRD-401,Notebook Pack,Office Supplies,West,2,9.50,CUST-1204
+ORD-100797,2026-05-18,PRD-101,Wireless Headphones,Electronics,South,4,79.99,CUST-1036
+ORD-100798,2026-05-29,PRD-103,USB-C Charger,Electronics,North,1,24.50,CUST-1199
+ORD-100799,2026-06-03,PRD-203,Cutlery Set,Home & Kitchen,North,1,58.75,CUST-1187
+ORD-100800,2026-06-07,PRD-103,USB-C Charger,Electronics,South,1,24.50,CUST-1019
+ORD-100801,2026-06-08,PRD-302,Cotton T-Shirt,Apparel,West,2,19.99,CUST-1233
+ORD-100802,2026-06-08,PRD-402,Desk Organiser,Office Supplies,Central,1,27.00,CUST-1020
+ORD-100803,2026-06-08,PRD-301,Running Jacket,Apparel,North,3,89.00,CUST-1023
+ORD-100804,2026-06-09,PRD-102,Smart Watch,Electronics,East,1,199.00,CUST-1133
+ORD-100805,2026-06-13,PRD-401,Notebook Pack,Office Supplies,West,1,9.50,CUST-1148
+ORD-100806,2026-06-16,PRD-402,Desk Organiser,Office Supplies,West,2,27.00,CUST-1098
+ORD-100807,2026-06-17,PRD-201,Non-stick Frying Pan,Home & Kitchen,West,1,34.00,CUST-1281
+ORD-100808,2026-06-23,PRD-302,Cotton T-Shirt,Apparel,East,1,19.99,CUST-1114
+ORD-100809,2026-06-24,PRD-201,Non-stick Frying Pan,Home & Kitchen,North,1,34.00,CUST-1139
+ORD-100810,2026-06-28,PRD-102,Smart Watch,Electronics,South,1,199.00,CUST-1188
+ORD-100811,2026-06-29,PRD-401,Notebook Pack,Office Supplies,North,2,9.50,CUST-1067
+ORD-100812,2026-06-29,PRD-301,Running Jacket,Apparel,North,8,89.00,CUST-1288
+ORD-100813,2026-06-30,PRD-303,Trail Sneakers,Apparel,West,2,110.00,CUST-1135
+ORD-100814,2026-07-01,PRD-203,Cutlery Set,Home & Kitchen,South,2,58.75,CUST-1046
+ORD-100815,2026-07-06,PRD-302,Cotton T-Shirt,Apparel,West,2,19.99,CUST-1262
+ORD-100816,2026-07-07,PRD-301,Running Jacket,Apparel,East,3,89.00,CUST-1289
+ORD-100817,2026-07-11,PRD-103,USB-C Charger,Electronics,North,4,24.50,CUST-1004
+ORD-100818,2026-07-14,PRD-402,Desk Organiser,Office Supplies,South,2,27.00,CUST-1092
+ORD-100819,2026-07-16,PRD-401,Notebook Pack,Office Supplies,South,3,9.50,CUST-1203
+ORD-100820,2026-07-16,PRD-303,Trail Sneakers,Apparel,West,1,110.00,CUST-1010
+ORD-100821,2026-07-17,PRD-101,Wireless Headphones,Electronics,West,6,79.99,CUST-1179
+ORD-100822,2026-07-25,PRD-202,Espresso Machine,Home & Kitchen,South,3,149.00,CUST-1130
+ORD-100823,2026-07-27,PRD-401,Notebook Pack,Office Supplies,West,1,9.50,CUST-1096
+ORD-100824,2026-07-28,PRD-103,USB-C Charger,Electronics,North,2,24.50,CUST-1164
+ORD-100825,2026-08-01,PRD-101,Wireless Headphones,Electronics,West,3,79.99,CUST-1294
+ORD-100826,2026-08-10,PRD-202,Espresso Machine,Home & Kitchen,Central,6,149.00,CUST-1169
+ORD-100827,2026-08-11,PRD-103,USB-C Charger,Electronics,Central,3,24.50,CUST-1098
+ORD-100828,2026-08-12,PRD-103,USB-C Charger,Electronics,East,2,24.50,CUST-1248
+ORD-100829,2026-08-13,PRD-303,Trail Sneakers,Apparel,South,1,110.00,CUST-1202
+ORD-100830,2026-08-14,PRD-103,USB-C Charger,Electronics,East,2,24.50,CUST-1277
+ORD-100831,2026-08-14,PRD-202,Espresso Machine,Home & Kitchen,East,3,149.00,CUST-1054
+ORD-100832,2026-08-15,PRD-501,Data Science Handbook,Books,West,4,45.00,CUST-1061
+ORD-100833,2026-08-28,PRD-203,Cutlery Set,Home & Kitchen,West,2,58.75,CUST-1247
+ORD-100834,2026-09-02,PRD-501,Data Science Handbook,Books,East,8,45.00,CUST-1297
+ORD-100835,2026-09-07,PRD-101,Wireless Headphones,Electronics,Central,1,79.99,CUST-1286
+ORD-100836,2026-09-10,PRD-102,Smart Watch,Electronics,Central,1,199.00,CUST-1214
+ORD-100837,2026-09-19,PRD-401,Notebook Pack,Office Supplies,East,3,9.50,CUST-1119
+ORD-100838,2026-09-23,PRD-103,USB-C Charger,Electronics,Central,1,24.50,CUST-1058
+ORD-100839,2026-09-24,PRD-402,Desk Organiser,Office Supplies,South,1,27.00,CUST-1170
+ORD-100840,2026-09-25,PRD-302,Cotton T-Shirt,Apparel,West,2,19.99,CUST-1165

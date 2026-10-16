@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local data and secrets (never commit real databases or credentials)
+*.db
+*.sqlite
+*.sqlite3
+.env
+.streamlit/secrets.toml
+
+# Generated / temporary output
+outputs/
+*.tmp
+.DS_Store
+.vscode/
+.idea/
